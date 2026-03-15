@@ -1,0 +1,5 @@
+name: student_score_cli
+description: 第4周案例 - Dart 语言基础：学生成绩管理系统（命令行版）
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
