@@ -1,5 +1,7 @@
 # 第3周：Flutter 开发环境搭建
 
+> **📖 详细讲义**：本页为课程大纲与目标；分步操作说明、Windows/macOS 区别及常见问题见 [第3周讲义（操作指南）](./week-03-lecture/)。
+
 ## 周学习目标
 完成 Flutter 开发环境的全面搭建，能够在 Android Studio、VSCode 两种 IDE 上分别构建开发环境，并成功创建、编译和运行第一个 Hello World 应用。
 
