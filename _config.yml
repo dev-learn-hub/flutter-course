@@ -1,0 +1,21 @@
+# GitHub Pages Jekyll 配置
+title: 《移动应用软件开发实训》课程大纲（Flutter）
+description: 云南大学《移动应用软件开发实训》Flutter课程网站
+baseurl: "/flutter-course"
+url: "https://dev-learn-hub.github.io"
+
+# 编码设置 - 解决中文乱码问题
+encoding: "utf-8"
+
+# markdown 渲染
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# 网站设置
+permalink: pretty
+
+# 默认分页设置
+paginate: 10
+paginate_path: "/blog/page:num/"
