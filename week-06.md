@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第6周大纲：Dart 异步编程与网络请求"
+permalink: /week-06/outline/
+---
+
 # 第6周：Dart 异步编程与网络请求
 
 ## 周学习目标

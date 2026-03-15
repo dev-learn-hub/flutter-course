@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第5周大纲：Dart 语言进阶（第二部分）"
+permalink: /week-05/outline/
+---
+
 # 第5周：Dart 语言进阶（第二部分）
 
 ## 周学习目标

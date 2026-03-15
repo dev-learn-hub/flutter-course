@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第4周大纲：Dart 语言基础（第一部分）"
+permalink: /week-04/outline/
+---
+
 # 第4周：Dart 语言基础（第一部分）
 
 ## 周学习目标

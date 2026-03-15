@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "第3周讲义：Flutter 开发环境搭建"
-permalink: /week-03-lecture/
+permalink: /week-03/lecture/
 ---
 
-本文为**第3周详细讲义**，侧重操作步骤与常见问题。课程大纲与目标见 [第3周课程页](./week-03/)。
+本文为**第3周详细讲义**，侧重操作步骤与常见问题。课程大纲与目标见 [第3周大纲](../outline/)。
 
 ---
 
@@ -147,7 +147,7 @@ flutter doctor
 
 4. **预期效果**  
    应用标题为「Flutter 课程」，页面中央显示「Hello World!」。  
-   演示代码在 `lib/main.dart`，可对照 [第3周课程页](./week-03/) 的讲解理解。
+   演示代码在 `lib/main.dart`，可对照 [第3周大纲](../outline/) 的讲解理解。
 
 ---
 
@@ -229,7 +229,7 @@ cd my_hello
 
 ## 十二、相关链接
 
-- [第3周课程大纲与目标](./week-03/)  
+- [第3周大纲与目标](../outline/)  
 - [Flutter 官方安装文档](https://docs.flutter.dev/get-started/install)  
 - [Flutter 中文网](https://flutter.cn)  
 - [本课程仓库 GitHub](https://github.com/dev-learn-hub/flutter-course)

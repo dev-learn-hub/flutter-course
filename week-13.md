@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第13周大纲：Flutter 应用架构与状态管理"
+permalink: /week-13/outline/
+---
+
 # 第13周：Flutter 应用架构与状态管理
 
 ## 周学习目标

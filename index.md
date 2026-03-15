@@ -30,20 +30,20 @@
 
 | 周次 | 主题 | 学时 | 核心内容 |
 |------|------|------|----------|
-| **第3周** | [Flutter 开发环境搭建](./week-03.md) | 4 | 开发环境配置、Android Studio/VSCode、原生与跨平台对比 |
-| **第4周** | [Dart 语言基础（第一部分）](./week-04.md) | 4 | 变量、数据类型、函数、控制结构 |
-| **第5周** | [Dart 语言进阶（第二部分）](./week-05.md) | 4 | 面向对象、Mixin、异常处理、包管理 |
-| **第6周** | [Dart 异步编程与网络请求](./week-06.md) | 4 | Future、async-await、HTTP请求、JSON解析 |
-| **第7周** | [Dart Web 开发与 Flutter Web 入门](./week-07.md) | 4 | DOM操作、Flutter Web、响应式设计 |
-| **第8周** | [Flutter 框架基础（第一部分）](./week-08.md) | 4 | Widget、生命周期、Stateless/Stateful |
-| **第9周** | [Flutter 布局系统详解](./week-09.md) | 4 | Row、Column、Stack、ListView、GridView |
-| **第10周** | [Flutter 常用组件与功能（第一部分）](./week-10.md) | 4 | AppBar、导航、表单、对话框、事件处理 |
-| **第11周** | [Flutter 常用组件与功能（第二部分）](./week-11.md) | 4 | 本地存储、网络请求、FutureBuilder、第三方库 |
-| **第12周** | [Flutter 动画与交互体验](./week-12.md) | 4 | Animation、隐式/显式动画、Hero动画、页面切换 |
-| **第13周** | [Flutter 应用架构与状态管理](./week-13.md) | 4 | Provider、GetX、Bloc、架构设计 |
-| **第14周** | [Flutter 项目实践（第一部分）](./week-14.md) | 4 | Git、GitHub、代码规范、CI/CD、项目管理 |
-| **第15周** | [Flutter 项目实践（第二部分）](./week-15.md) | 4 | 小组协作、产品设计、原型制作、需求分析 |
-| **第16周** | [Flutter 项目实践（第三部分）](./week-16.md) | 4 | 项目展示、互评、应用打包、发布流程 |
+| **第3周** | [Flutter 开发环境搭建](./week-03/) | 4 | 开发环境配置、Android Studio/VSCode、原生与跨平台对比 |
+| **第4周** | [Dart 语言基础（第一部分）](./week-04/) | 4 | 变量、数据类型、函数、控制结构 |
+| **第5周** | [Dart 语言进阶（第二部分）](./week-05/) | 4 | 面向对象、Mixin、异常处理、包管理 |
+| **第6周** | [Dart 异步编程与网络请求](./week-06/) | 4 | Future、async-await、HTTP请求、JSON解析 |
+| **第7周** | [Dart Web 开发与 Flutter Web 入门](./week-07/) | 4 | DOM操作、Flutter Web、响应式设计 |
+| **第8周** | [Flutter 框架基础（第一部分）](./week-08/) | 4 | Widget、生命周期、Stateless/Stateful |
+| **第9周** | [Flutter 布局系统详解](./week-09/) | 4 | Row、Column、Stack、ListView、GridView |
+| **第10周** | [Flutter 常用组件与功能（第一部分）](./week-10/) | 4 | AppBar、导航、表单、对话框、事件处理 |
+| **第11周** | [Flutter 常用组件与功能（第二部分）](./week-11/) | 4 | 本地存储、网络请求、FutureBuilder、第三方库 |
+| **第12周** | [Flutter 动画与交互体验](./week-12/) | 4 | Animation、隐式/显式动画、Hero动画、页面切换 |
+| **第13周** | [Flutter 应用架构与状态管理](./week-13/) | 4 | Provider、GetX、Bloc、架构设计 |
+| **第14周** | [Flutter 项目实践（第一部分）](./week-14/) | 4 | Git、GitHub、代码规范、CI/CD、项目管理 |
+| **第15周** | [Flutter 项目实践（第二部分）](./week-15/) | 4 | 小组协作、产品设计、原型制作、需求分析 |
+| **第16周** | [Flutter 项目实践（第三部分）](./week-16/) | 4 | 项目展示、互评、应用打包、发布流程 |
 
 ---
 

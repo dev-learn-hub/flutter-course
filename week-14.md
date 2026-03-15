@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第14周大纲：Flutter 项目实践（第一部分）"
+permalink: /week-14/outline/
+---
+
 # 第14周：Flutter 项目实践（第一部分）
 
 ## 周学习目标

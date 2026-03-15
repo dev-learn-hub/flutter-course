@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第16周大纲：Flutter 项目实践（第三部分）"
+permalink: /week-16/outline/
+---
+
 # 第16周：Flutter 项目实践（第三部分）
 
 ## 周学习目标

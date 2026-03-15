@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第9周大纲：Flutter 布局系统详解"
+permalink: /week-09/outline/
+---
+
 # 第9周：Flutter 布局系统详解
 
 ## 周学习目标

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第7周大纲：Dart Web 开发与 Flutter Web 入门"
+permalink: /week-07/outline/
+---
+
 # 第7周：Dart Web 开发与 Flutter Web 入门
 
 ## 周学习目标

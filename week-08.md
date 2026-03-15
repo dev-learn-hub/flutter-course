@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第8周大纲：Flutter 框架基础（第一部分）"
+permalink: /week-08/outline/
+---
+
 # 第8周：Flutter 框架基础（第一部分）
 
 ## 周学习目标

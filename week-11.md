@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第11周大纲：Flutter 常用组件与功能（第二部分）"
+permalink: /week-11/outline/
+---
+
 # 第11周：Flutter 常用组件与功能（第二部分）
 
 ## 周学习目标

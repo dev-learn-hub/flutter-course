@@ -1,3 +1,9 @@
+---
+layout: default
+title: "第12周大纲：Flutter 动画与交互体验"
+permalink: /week-12/outline/
+---
+
 # 第12周：Flutter 动画与交互体验
 
 ## 周学习目标
