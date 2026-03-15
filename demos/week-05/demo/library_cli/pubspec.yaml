@@ -1,0 +1,5 @@
+name: library_cli
+description: 第5周案例 - Dart OOP：图书馆管理系统（命令行版）
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
