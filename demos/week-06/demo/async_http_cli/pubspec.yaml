@@ -1,0 +1,7 @@
+name: async_http_cli
+description: 第6周案例 - Dart 异步与 HTTP：GET 请求与 JSON 解析
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  http: ^1.2.0
