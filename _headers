@@ -1,0 +1,25 @@
+# 1. HTML 文件：每次都验证最新版本，永不缓存旧内容
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+# 2. CSS/JS：缓存7天，但后台自动验证更新
+/*.css
+/*.js
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+
+# 3. 静态资源（图片/字体/媒体）：长期缓存
+/*.png
+/*.jpg
+/*.jpeg
+/*.gif
+/*.svg
+/*.woff
+/*.woff2
+/*.ttf
+  Cache-Control: public, max-age=31536000, immutable
+
+# 4. 其他资源：短期缓存
+/*.json
+/*.xml
+/*.md
+  Cache-Control: public, max-age=3600, must-revalidate
