@@ -7,6 +7,9 @@ url: "https://dev-learn-hub.github.io"
 # 主题设置 - minima 是 GitHub Pages 默认主题
 theme: minima
 
+# 导航栏不自动列出所有页面，避免出现「第3周/第3周大纲/第3周讲义」等重复项挤在一起
+header_pages: []
+
 # 编码设置 - 解决中文乱码问题
 encoding: "utf-8"
 
